@@ -1,0 +1,32 @@
+img{
+  height: 110px
+}
+
+body{
+  margin: 0px
+}
+
+header{
+  display: flex;
+  align-items:center;
+  background-color: rgb(255,100,150);
+  padding-left: 10px;
+
+}
+
+.navbar{
+  display: flex;
+  justify-content: space-between;
+  background-color: lightgrey;
+  padding: 5px;
+  padding-left: 100px;
+  padding-right: 100px;
+}
+
+.button{
+  background-color: white;
+  color: rgb(4,100,150);
+  border-radius: 5px;
+  height: 15px;
+  padding: 5px
+}
